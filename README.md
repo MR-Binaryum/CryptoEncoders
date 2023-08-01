@@ -4,8 +4,8 @@ CryptoEncoders its a simple python software automated to encode words, sentences
 
 The result of the hash depends on the next things:
 
-1. The characters/text that you put on the first input entry 
-2. And the algoritm that you specify on the second input entry
+1. The characters/text that you put on the first input 
+2. And the algoritm that you specify on the second input
 
 (For example)
 After execute the command python3 coders.py youre gonna see this small informative banner...
