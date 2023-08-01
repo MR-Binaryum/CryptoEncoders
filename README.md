@@ -11,8 +11,7 @@ The result of the hash depends on the next things:
 
 git 
 python3
-pip3
-hashlib module
+
 
 ####EXECUTE#######
 
