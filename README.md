@@ -24,9 +24,8 @@ In this case i put sha512 algoritm...
 
 ![image](https://github.com/MR-Binaryum/CryptoEncoders/assets/133718570/3f78975c-999c-433c-abe4-7edb56b5829e)
 
-When you do it the before steps the software gonna dump you the final result of youre password, text or sentence encoded
+When you do it the before steps the software gonna dump you the final result of youre password, text or sentence encoded into a hash...
 
-with the hash algoritm that you selected...
 
 ![image](https://github.com/MR-Binaryum/CryptoEncoders/assets/133718570/699f4f0e-ac20-40d5-bd0d-c1aecdcd3ec8)
 
