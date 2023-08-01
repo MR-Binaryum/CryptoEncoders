@@ -13,7 +13,7 @@ After execute the command python3 coders.py youre gonna see this small informati
 ![image](https://github.com/MR-Binaryum/CryptoEncoders/assets/133718570/9d1301fd-caed-43fc-a92e-11cd1eacea5e)
 
 
-In the first entry have to put the password, text or sentence that you want for example...
+In the first entry you have to put the password, text or sentence that you want for example...
 
 ![image](https://github.com/MR-Binaryum/CryptoEncoders/assets/133718570/b807ebb9-4585-45fa-8bf0-5c74c3cdf6a9)
 
