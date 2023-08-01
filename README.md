@@ -1,6 +1,6 @@
 # CryptoEncoders
 
-CryptoEncoders its a simple python software automated to encode words, sentences or passwords to return back into a hash...
+CryptoEncoders its a simple python software automated to encode words, sentences or passwords to back them into a hash...
 
 The result of the hash depends on the next things:
 
